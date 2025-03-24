@@ -3,10 +3,10 @@
 The Complaint Management System is a web-based platform designed to streamline the process of lodging, tracking, and resolving complaints within an organization. This system provides a user-friendly interface for users to submit their complaints, track the status, and receive resolutions in an organized and efficient manner.
 
 # Features
-1)User Registration and Login: Secure registration and authentication for users.
-2)Complaint Submission: Easy-to-use forms for users to lodge complaints.
-3)Complaint Tracking: Users can track the status of their complaints in real-time.
-4)Admin Dashboard: Admins can manage and resolve complaints, view statistics, and generate reports.
+1) User Registration and Login: Secure registration and authentication for users.
+2) Complaint Submission: Easy-to-use forms for users to lodge complaints.
+3) Complaint Tracking: Users can track the status of their complaints in real-time.
+4) Admin Dashboard: Admins can manage and resolve complaints, view statistics, and generate reports.
 
 # Technologies Used
 # Frontend:
